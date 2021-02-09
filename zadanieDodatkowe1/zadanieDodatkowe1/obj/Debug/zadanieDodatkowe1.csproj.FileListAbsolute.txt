@@ -1,0 +1,13 @@
+C:\Users\Michał\source\repos\zadanieDodatkowe1\zadanieDodatkowe1\bin\Debug\zadanieDodatkowe1.exe.config
+C:\Users\Michał\source\repos\zadanieDodatkowe1\zadanieDodatkowe1\bin\Debug\zadanieDodatkowe1.exe
+C:\Users\Michał\source\repos\zadanieDodatkowe1\zadanieDodatkowe1\bin\Debug\zadanieDodatkowe1.pdb
+C:\Users\Michał\source\repos\zadanieDodatkowe1\zadanieDodatkowe1\obj\Debug\zadanieDodatkowe1.Properties.Resources.resources
+C:\Users\Michał\source\repos\zadanieDodatkowe1\zadanieDodatkowe1\obj\Debug\zadanieDodatkowe1.csproj.GenerateResource.cache
+C:\Users\Michał\source\repos\zadanieDodatkowe1\zadanieDodatkowe1\obj\Debug\zadanieDodatkowe1.csproj.CoreCompileInputs.cache
+C:\Users\Michał\source\repos\zadanieDodatkowe1\zadanieDodatkowe1\obj\Debug\zadanieDodatkowe1.exe
+C:\Users\Michał\source\repos\zadanieDodatkowe1\zadanieDodatkowe1\obj\Debug\zadanieDodatkowe1.pdb
+C:\Users\Michał\source\repos\zadanieDodatkowe1\zadanieDodatkowe1\obj\Debug\zadanieDodatkowe1.MainWindow.resources
+C:\Users\Michał\source\repos\zadanieDodatkowe1\zadanieDodatkowe1\obj\Debug\zadanieDodatkowe1.csprojAssemblyReference.cache
+C:\Users\Michał\source\repos\zadanieDodatkowe1\zadanieDodatkowe1\bin\Debug\CustomButton.dll
+C:\Users\Michał\source\repos\zadanieDodatkowe1\zadanieDodatkowe1\bin\Debug\CustomButton.pdb
+C:\Users\Michał\source\repos\zadanieDodatkowe1\zadanieDodatkowe1\obj\Debug\zadanieDodatkowe1.csproj.CopyComplete

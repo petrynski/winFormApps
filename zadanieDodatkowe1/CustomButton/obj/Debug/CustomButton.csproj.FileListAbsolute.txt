@@ -1,0 +1,8 @@
+C:\Users\Michał\source\repos\zadanieDodatkowe1\CustomButton\obj\Debug\CustomButton.csproj.CoreCompileInputs.cache
+C:\Users\Michał\source\repos\zadanieDodatkowe1\CustomButton\bin\Debug\CustomButton.dll
+C:\Users\Michał\source\repos\zadanieDodatkowe1\CustomButton\bin\Debug\CustomButton.pdb
+C:\Users\Michał\source\repos\zadanieDodatkowe1\CustomButton\obj\Debug\CustomButton.dll
+C:\Users\Michał\source\repos\zadanieDodatkowe1\CustomButton\obj\Debug\CustomButton.pdb
+C:\Users\Michał\source\repos\zadanieDodatkowe1\CustomButton\obj\Debug\CustomButton.csprojAssemblyReference.cache
+C:\Users\Michał\source\repos\zadanieDodatkowe1\CustomButton\obj\Debug\CustomButton.CustomButton.resources
+C:\Users\Michał\source\repos\zadanieDodatkowe1\CustomButton\obj\Debug\CustomButton.csproj.GenerateResource.cache

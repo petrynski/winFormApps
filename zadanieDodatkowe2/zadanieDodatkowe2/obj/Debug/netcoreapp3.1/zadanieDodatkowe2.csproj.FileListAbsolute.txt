@@ -1,0 +1,16 @@
+C:\Users\Michał\source\repos\zadanieDodatkowe2\zadanieDodatkowe2\bin\Debug\netcoreapp3.1\zadanieDodatkowe2.exe
+C:\Users\Michał\source\repos\zadanieDodatkowe2\zadanieDodatkowe2\bin\Debug\netcoreapp3.1\zadanieDodatkowe2.deps.json
+C:\Users\Michał\source\repos\zadanieDodatkowe2\zadanieDodatkowe2\bin\Debug\netcoreapp3.1\zadanieDodatkowe2.runtimeconfig.json
+C:\Users\Michał\source\repos\zadanieDodatkowe2\zadanieDodatkowe2\bin\Debug\netcoreapp3.1\zadanieDodatkowe2.runtimeconfig.dev.json
+C:\Users\Michał\source\repos\zadanieDodatkowe2\zadanieDodatkowe2\bin\Debug\netcoreapp3.1\zadanieDodatkowe2.dll
+C:\Users\Michał\source\repos\zadanieDodatkowe2\zadanieDodatkowe2\bin\Debug\netcoreapp3.1\zadanieDodatkowe2.pdb
+C:\Users\Michał\source\repos\zadanieDodatkowe2\zadanieDodatkowe2\obj\Debug\netcoreapp3.1\zadanieDodatkowe2.csprojAssemblyReference.cache
+C:\Users\Michał\source\repos\zadanieDodatkowe2\zadanieDodatkowe2\obj\Debug\netcoreapp3.1\zadanieDodatkowe2.csproj.GenerateResource.cache
+C:\Users\Michał\source\repos\zadanieDodatkowe2\zadanieDodatkowe2\obj\Debug\netcoreapp3.1\zadanieDodatkowe2.AssemblyInfoInputs.cache
+C:\Users\Michał\source\repos\zadanieDodatkowe2\zadanieDodatkowe2\obj\Debug\netcoreapp3.1\zadanieDodatkowe2.AssemblyInfo.cs
+C:\Users\Michał\source\repos\zadanieDodatkowe2\zadanieDodatkowe2\obj\Debug\netcoreapp3.1\zadanieDodatkowe2.csproj.CoreCompileInputs.cache
+C:\Users\Michał\source\repos\zadanieDodatkowe2\zadanieDodatkowe2\obj\Debug\netcoreapp3.1\zadanieDodatkowe2.dll
+C:\Users\Michał\source\repos\zadanieDodatkowe2\zadanieDodatkowe2\obj\Debug\netcoreapp3.1\zadanieDodatkowe2.pdb
+C:\Users\Michał\source\repos\zadanieDodatkowe2\zadanieDodatkowe2\obj\Debug\netcoreapp3.1\zadanieDodatkowe2.genruntimeconfig.cache
+C:\Users\Michał\source\repos\zadanieDodatkowe2\zadanieDodatkowe2\obj\Debug\netcoreapp3.1\zadanieDodatkowe2.Properties.Resources.resources
+C:\Users\Michał\source\repos\zadanieDodatkowe2\zadanieDodatkowe2\obj\Debug\netcoreapp3.1\zadanieDodatkowe2.Okno.resources
